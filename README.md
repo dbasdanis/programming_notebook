@@ -1,4 +1,4 @@
-# programming_notebook
+# Programming Notebook
 
 - Programming notebook is a repo with notes, guides and much more for different programming languages and tools
 
