@@ -24,3 +24,9 @@ Key Features:
 8. **Resources & References:** Access a curated collection of resources, tutorials, and documentation to enhance your coding skills and stay updated with the latest technologies and best practices.
 
 Whether you're working on a solo project or collaborating with a team, the Repository Programming Notebook empowers you to turn your ideas into reality efficiently and effectively. Let this notebook be your companion on your coding journey, guiding you toward success one line of code at a time.
+
+### Programming languages
+
+- Python
+- Java
+- Springboot
