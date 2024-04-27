@@ -28,5 +28,5 @@ Whether you're working on a solo project or collaborating with a team, the Repos
 ### Programming languages
 
 - [Python](python.md)
-- Java
-- Springboot
+- [Java](java.md)
+- [Spring Boot](springboot.md)
