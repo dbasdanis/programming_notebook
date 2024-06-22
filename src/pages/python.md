@@ -1,13 +1,13 @@
 # Python
 
+Welcome to the Python Documentary, a comprehensive resource dedicated to the exploration, education, and celebration of Python, one of the most influential programming languages in the world. Python's simplicity, versatility, and powerful libraries have made it the go-to language for a wide range of applications, from web development and data analysis to artificial intelligence and scientific computing.
+
 # Table of Contents
 1. [About This Repository](#about-this-repository)
 2. [What You Will Find](#what-you-will-find)
 3. [Why Python?](#why-python)
 4. [Contribute](#contribute)
 5. [Join The Community](#join-the-community)
-
-Welcome to the Python Documentary, a comprehensive resource dedicated to the exploration, education, and celebration of Python, one of the most influential programming languages in the world. Python's simplicity, versatility, and powerful libraries have made it the go-to language for a wide range of applications, from web development and data analysis to artificial intelligence and scientific computing.
 
 ## About This Repository
 
