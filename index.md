@@ -35,3 +35,4 @@ Whether you're working on a solo project or collaborating with a team, the Repos
 - [Java](src/pages/java.md)
 - [Spring Boot](src/pages/springboot.md)
 - [Go](src/pages/go.md)
+- [Git](src/pages/git.md)
