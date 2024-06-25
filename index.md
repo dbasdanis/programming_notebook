@@ -1,17 +1,62 @@
-<div style="background-color: #f1f1f1; padding: 20px; text-align: center;">
+<!-- <div style="background-color: #f1f1f1; padding: 20px; text-align: center;">
   <h1>Programming Notebook</h1>
   <p>Organize, Collaborate, and Innovate</p>
-</div>
+</div> -->
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Programming Notebook</title>
+  <style>
+    body {
+      display: flex;
+      flex-direction: row;
+    }
+    #toc {
+      width: 20%;
+      padding: 10px;
+      background-color: #f9f9f9;
+      border-right: 1px solid #ddd;
+      position: fixed;
+      height: 100%;
+      overflow-y: auto;
+    }
+    #content {
+      margin-left: 40%;
+      padding: 20px;
+      width: 75%;
+    }
+    h1, h2, h3 {
+      margin-top: 1.5em;
+    }
+  </style>
+</head>
+<body>
 
 [![Status](https://img.shields.io/badge/status-active-success.svg)]()
 [![License](https://img.shields.io/badge/license-MIT-blue.svg)](/LICENSE)
 [![Version](https://img.shields.io/badge/version-0.1.0-orange.svg)]()
 
+<div id="toc">
+
+## Table of Contents
+1. [Introduction](#introduction)
+2. [Key Features](#key-features)
+3. [Programming languages](#programming-languages)
+
+</div>
+
+<div id="content">
+
+## Introduction
+
 Welcome to the Repository Programming Notebook, your comprehensive tool for organizing, collaborating, and innovating in the realm of software development. Whether you're a seasoned developer or just starting your coding journey, this notebook serves as your go-to resource for managing your projects efficiently.
 
 At its core, this notebook is designed to streamline your coding workflow by providing structured sections tailored to every stage of the development process. From initial brainstorming to final deployment, each section offers prompts, templates, and guidelines to keep your projects on track and your ideas organized.
 
-Key Features:
+## Key Features:
 
 1. **Project Overview:** Start each project with a clear understanding of its purpose, scope, and objectives. Use this section to outline project goals, requirements, and target audience.
 
@@ -37,3 +82,10 @@ Whether you're working on a solo project or collaborating with a team, the Repos
 - [Spring Boot](src/pages/springboot.md)
 - [Go](src/pages/go.md)
 - [Git](src/pages/git.md)
+
+</div>
+
+</body>
+</html>
+
+
