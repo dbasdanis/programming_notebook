@@ -1,2 +1,4 @@
-name: ""
-title: null
+# Configuration file for your Jekyll site
+title: Programming Notebook
+description: Organize, Collaborate, and Innovate
+theme: minima
