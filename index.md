@@ -1,10 +1,11 @@
-# Programming Notebook
+<div style="background-color: #f1f1f1; padding: 20px; text-align: center;">
+  <h1>Programming Notebook</h1>
+  <p>Organize, Collaborate, and Innovate</p>
+</div>
 
 [![Status](https://img.shields.io/badge/status-active-success.svg)]()
 [![License](https://img.shields.io/badge/license-MIT-blue.svg)](/LICENSE)
 [![Version](https://img.shields.io/badge/version-0.1.0-orange.svg)]()
-
-### Organize, Collaborate, and Innovate
 
 Welcome to the Repository Programming Notebook, your comprehensive tool for organizing, collaborating, and innovating in the realm of software development. Whether you're a seasoned developer or just starting your coding journey, this notebook serves as your go-to resource for managing your projects efficiently.
 
