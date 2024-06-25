@@ -1,86 +1,40 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Programming Notebook</title>
-  <style>
-    body {
-      display: flex;
-      flex-direction: row;
-    }
-    #toc {
-      width: 20%;
-      padding: 10px;
-      background-color: #f9f9f9;
-      border-right: 1px solid #ddd;
-      position: fixed;
-      height: 100%;
-      overflow-y: auto;
-    }
-    #content {
-      margin-left: 40%;
-      padding: 20px;
-      width: 75%;
-    }
-    h1, h2, h3 {
-      margin-top: 1.5em;
-    }
-  </style>
-</head>
-<body>
+# Programming Notebook
 
-<div id="toc">
+[![Status](https://img.shields.io/badge/status-active-success.svg)]()
+[![License](https://img.shields.io/badge/license-MIT-blue.svg)](/LICENSE)
+[![Version](https://img.shields.io/badge/version-0.1.0-orange.svg)]()
 
-    ## Table of Contents
-    1. [Introduction](#introduction)
-    2. [Key Features](#key-features)
-    3. [Programming languages](#programming-languages)
+### Organize, Collaborate, and Innovate
 
-</div>
+Welcome to the Repository Programming Notebook, your comprehensive tool for organizing, collaborating, and innovating in the realm of software development. Whether you're a seasoned developer or just starting your coding journey, this notebook serves as your go-to resource for managing your projects efficiently.
 
-<div id="content">
+At its core, this notebook is designed to streamline your coding workflow by providing structured sections tailored to every stage of the development process. From initial brainstorming to final deployment, each section offers prompts, templates, and guidelines to keep your projects on track and your ideas organized.
 
-    [![Status](https://img.shields.io/badge/status-active-success.svg)]()
-    [![License](https://img.shields.io/badge/license-MIT-blue.svg)](/LICENSE)
-    [![Version](https://img.shields.io/badge/version-0.1.0-orange.svg)]()
+Key Features:
 
-    ## Introduction
+1. **Project Overview:** Start each project with a clear understanding of its purpose, scope, and objectives. Use this section to outline project goals, requirements, and target audience.
 
-    Welcome to the Repository Programming Notebook, your comprehensive tool for organizing, collaborating, and innovating in the realm of software development. Whether you're a seasoned developer or just starting your coding journey, this notebook serves as your go-to resource for managing your projects efficiently.
+2. **Brainstorming & Planning:** Unleash your creativity and map out your ideas using mind maps, flowcharts, or bullet-point lists. Define user stories, feature sets, and milestones to guide your development journey.
 
-    At its core, this notebook is designed to streamline your coding workflow by providing structured sections tailored to every stage of the development process. From initial brainstorming to final deployment, each section offers prompts, templates, and guidelines to keep your projects on track and your ideas organized.
+3. **Code Repository:** Keep your code organized and accessible with dedicated sections for storing snippets, scripts, and project files. Utilize version control systems like Git to track changes and collaborate seamlessly with team members.
 
-    ## Key Features:
+4. **Documentation:** Document your codebase comprehensively to facilitate maintenance, debugging, and knowledge sharing. Include inline comments, README files, and user manuals to guide future developers and users.
 
-    1. **Project Overview:** Start each project with a clear understanding of its purpose, scope, and objectives. Use this section to outline project goals, requirements, and target audience.
+5. **Testing & Quality Assurance:** Ensure the reliability and stability of your software through rigorous testing. Record test cases, results, and bug reports to identify and fix issues promptly.
 
-    2. **Brainstorming & Planning:** Unleash your creativity and map out your ideas using mind maps, flowcharts, or bullet-point lists. Define user stories, feature sets, and milestones to guide your development journey.
+6. **Deployment & Release:** Prepare your code for deployment by configuring environments, packaging binaries, and creating release notes. Automate deployment pipelines to streamline the release process and minimize downtime.
 
-    3. **Code Repository:** Keep your code organized and accessible with dedicated sections for storing snippets, scripts, and project files. Utilize version control systems like Git to track changes and collaborate seamlessly with team members.
+7. **Collaboration & Communication:** Foster collaboration among team members by sharing updates, assigning tasks, and scheduling meetings. Use integrated communication tools like Slack or Microsoft Teams to stay connected and informed.
 
-    4. **Documentation:** Document your codebase comprehensively to facilitate maintenance, debugging, and knowledge sharing. Include inline comments, README files, and user manuals to guide future developers and users.
+8. **Resources & References:** Access a curated collection of resources, tutorials, and documentation to enhance your coding skills and stay updated with the latest technologies and best practices.
 
-    5. **Testing & Quality Assurance:** Ensure the reliability and stability of your software through rigorous testing. Record test cases, results, and bug reports to identify and fix issues promptly.
+Whether you're working on a solo project or collaborating with a team, the Repository Programming Notebook empowers you to turn your ideas into reality efficiently and effectively. Let this notebook be your companion on your coding journey, guiding you toward success one line of code at a time.
 
-    6. **Deployment & Release:** Prepare your code for deployment by configuring environments, packaging binaries, and creating release notes. Automate deployment pipelines to streamline the release process and minimize downtime.
-
-    7. **Collaboration & Communication:** Foster collaboration among team members by sharing updates, assigning tasks, and scheduling meetings. Use integrated communication tools like Slack or Microsoft Teams to stay connected and informed.
-
-    8. **Resources & References:** Access a curated collection of resources, tutorials, and documentation to enhance your coding skills and stay updated with the latest technologies and best practices.
-
-    Whether you're working on a solo project or collaborating with a team, the Repository Programming Notebook empowers you to turn your ideas into reality efficiently and effectively. Let this notebook be your companion on your coding journey, guiding you toward success one line of code at a time.
-
-    ### Programming languages
-    - [Python](src/pages/python.md)
-    - [Java](src/pages/java.md)
-    - [Spring Boot](src/pages/springboot.md)
-    - [Go](src/pages/go.md)
-    - [Git](src/pages/git.md)
-
-</div>
-
-</body>
-</html>
+### Programming languages
+- [Python](src/pages/python.md)
+- [Java](src/pages/java.md)
+- [Spring Boot](src/pages/springboot.md)
+- [Go](src/pages/go.md)
+- [Git](src/pages/git.md)
 
 
