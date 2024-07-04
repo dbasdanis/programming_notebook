@@ -1,1 +1,1 @@
-## Intro to Git
+# Git
