@@ -28,11 +28,5 @@ Key Features:
 
 Whether you're working on a solo project or collaborating with a team, the Repository Programming Notebook empowers you to turn your ideas into reality efficiently and effectively. Let this notebook be your companion on your coding journey, guiding you toward success one line of code at a time.
 
-### Programming languages
-- [Python](src/pages/python.md)
-- [Java](src/pages/java.md)
-- [Spring Boot](src/pages/springboot.md)
-- [Go](src/pages/go.md)
-- [Git](src/pages/git.md)
 
 
