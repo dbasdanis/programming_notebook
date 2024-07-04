@@ -4,6 +4,6 @@ description: Organize, Collaborate, and Innovate
 theme: minima
 
 titles_from_headings:
-  enabled:     false
+  enabled:     true
   strip_title: false
   collections: false
