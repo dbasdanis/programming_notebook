@@ -15,7 +15,6 @@ This repository serves as a centralized hub for documentaries, interviews, tutor
 ## What You Will Find
 
 - **Documentaries**: Watch in-depth documentaries that trace Python's journey from its inception in the late 1980s by Guido van Rossum to its current status as a cornerstone of modern programming.
-- **Interviews**: Gain perspectives from prominent figures in the Python community, including developers, educators, and industry leaders.
 - **Tutorials**: Access a variety of tutorials that cater to all skill levels, from beginner to advanced, helping you master Python's syntax, libraries, and best practices.
 - **Case Studies**: Learn how Python is applied in various industries through real-world case studies showcasing its versatility and effectiveness.
 
