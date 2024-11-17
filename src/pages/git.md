@@ -1,5 +1,4 @@
-# ![GIT](../img/icons8-git-48.png)
-# Git
+# ![GIT](../img/icons8-git-48.png) Git
 
 Git is a distributed version control system that allows developers to track changes, collaborate on code, and manage project versions effectively. Below are some basic functionalities of Git and their corresponding commands:
 

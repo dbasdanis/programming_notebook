@@ -1,5 +1,4 @@
-# ![SPRING](../img/icons8-spring-boot-48.png) 
-# Spring Boot 
+# ![SPRING](../img/icons8-spring-boot-48.png) Spring Boot 
 ## Introduction to Spring Boot Documentation
 Spring Boot is an open-source framework for creating stand-alone, production-grade Spring-based applications. It simplifies the development process by providing a range of non-functional features common to large classes of projects, such as embedded servers, security, and configuration management. This repository is dedicated to offering comprehensive documentation to help you understand and utilize Spring Boot effectively.
 
