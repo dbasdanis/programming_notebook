@@ -1,4 +1,5 @@
-# ![JAVA](../img/icons8-java-48.png) Java
+# ![JAVA](../img/icons8-java-48.png) 
+# Java
 ## Introduction to Java Documentation
 
 Java is a high-level, class-based, object-oriented programming language designed to have as few implementation dependencies as possible. It is a widely used language for building secure, robust, and scalable applications. This repository serves as a comprehensive guide to understanding Java and its core concepts.

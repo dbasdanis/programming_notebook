@@ -1,4 +1,5 @@
-# ![PYTHON](../img/icons8-python-48.png) Python
+# ![PYTHON](../img/icons8-python-48.png) 
+# Python
 Welcome to the Python Documentary, a comprehensive resource dedicated to the exploration, education, and celebration of Python, one of the most influential programming languages in the world. Python's simplicity, versatility, and powerful libraries have made it the go-to language for a wide range of applications, from web development and data analysis to artificial intelligence and scientific computing.
 
 # Table of Contents
